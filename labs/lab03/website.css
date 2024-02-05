@@ -1,0 +1,50 @@
+body {
+    background-color: #121212;
+}
+
+h1 {
+    font-family: "Helvetica";
+    color: white;
+}
+
+.joke {
+    display: inline-flex;
+}
+
+.hidden {
+    display: none;
+}
+
+.answer:hover + .hidden{
+    display: block;
+    color: red;
+}
+
+.page {
+   display: flex;
+   flex-direction: column;
+   min-height: 98vh; 
+}
+
+.content{
+    color:white;
+    display: flex;
+    flex-direction: column;
+    padding: 4%;
+}
+
+header {
+    background-color: rgb(48, 48, 48);
+    padding: 1em;
+    color:white;
+    margin-bottom: auto;
+    font-family: "Helvetica";
+    font-style: italic; 
+}
+footer {
+    text-align: center;
+    background-color: rgb(48, 48, 48);
+    padding: 1em;
+    color:white;
+    margin-top: auto;
+}
