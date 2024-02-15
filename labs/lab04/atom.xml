@@ -2,7 +2,7 @@
  
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Atom Feed</title>
-  <subtitle>junga3 Web Feed</subtitle>
+  <subtitle>Lab04 for junga3 Atom Feed</subtitle>
   <link href="http://junga3rpi.eastus.cloudapp.azure.com/iit/labs/lab04/atom.xml" />
   <id>tag:junga3rpi.eastus.cloudapp.azure.com,2024-02-15:/iit/labs/lab04/atom.xml</id>
   <updated>2024-02-15T13:30:02Z</updated>
