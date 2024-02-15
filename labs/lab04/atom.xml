@@ -1,26 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
  
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
-	<title>Example Feed</title>
-	<subtitle>A subtitle.</subtitle>
-	<link href="http://example.org/feed/" rel="self" />
-	<link href="http://example.org/" />
-	<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
-	<updated>2003-12-13T18:30:02Z</updated>
-	<author>
-		<name>John Doe</name>
-		<email>johndoe@example.com</email>
+  <title>Atom Feed</title>
+  <subtitle>Lab04 for junga3 Atom Feed</subtitle>
+  <link href="http://junga3rpi.eastus.cloudapp.azure.com/iit/labs/lab04/atom.xml" />
+  <id>tag:junga3rpi.eastus.cloudapp.azure.com,2024-02-15:/iit/labs/lab04/atom.xml</id>
+  <updated>2024-02-15T13:30:02Z</updated>
+  <author>
+    <name>Andrew Jung</name>
+    <email>junga3@rpi.edu</email>
+  </author>
+  <entry>
+    <title>Supreme Court considers whether Trump can be removed from a primary ballot</title>
+    <link href="https://www.npr.org/2024/02/08/1229176555/supreme-court-trump-colorado-ballot" />
+    <id>tag:npr.org,2024-02-08:/2024/02/08/1229176555/supreme-court-trump-colorado-ballot</id>
+    <published>2024-02-08T06:49:00Z</published>
+    <updated>2024-02-08T06:49:00Z</updated>
+    <summary>The justices will consider whether Republican front-runner Donald Trump can be disqualified from a state primary ballot because he allegedly engaged in an insurrection to try to cling to power, after he lost the 2020 election to Joe Biden.</summary>
+    <author>
+	   <name>Carrie Johnson</name>
 	</author>
- 
-	<entry>
-		<title>Supreme Court considers whether Trump can be removed from a primary ballot</title>
-		<link href="https://www.npr.org/2024/02/08/1229176555/supreme-court-trump-colorado-ballot" />
-		<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
-		<updated>2003-12-13T18:30:02Z</updated>
-		<summary>The justices will consider whether Republican front-runner Donald Trump can be disqualified from a state primary ballot because he allegedly engaged in an insurrection to try to cling to power, after he lost the 2020 election to Joe Biden.</summary>
-	</entry>
- 
+  </entry>
+
+  <entry>
+    <title>Airline starts weighing passengers at the gate</title>
+    <link href="https://www.cnn.com/travel/article/finnair-passenger-weight-trial/index.html" />
+    <id>tag:cnn.com,2024-02-08:/travel/article/finnair-passenger-weight-trial/index.html</id>
+    <published>2024-02-08T09:42:00Z</published>
+    <updated>2024-02-08T09:42:00Z</updated>
+    <summary>But now, some brave airline passengers are consenting to being weighed themselves before boarding the plane.</summary>
+    <author>
+	   <name>Julia Buckley</name>
+	</author>
+  </entry>
+
+  <entry>
+    <title>22-year-old woman missing for days after going hiking during historic Southern California storm</title>
+    <link href="https://abcnews.go.com/US/22-year-woman-missing-hike-historic-southern-california/story?id=107057891" />
+    <id>tag:abcnews.go.com,2024-02-08:/US/22-year-woman-missing-hike-historic-southern-california/story?id=107057891</id>
+    <published>2024-02-08T12:27:00Z</published>
+    <updated>2024-02-08T12:27:00Z</updated>
+    <summary>Lisei Huang left for a hike in the Mount Baldy area of the San Gabriel Mountains at about 2 p.m. Sunday, and she was last heard from about two hours later, the San Bernardino County Sheriff's Department said. She was reported missing Sunday night.</summary>
+    <author>
+      <name>Emily Shapiro</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Russians freeze as Putin’s war and aging pipes reveal cracks at home</title>
+    <link href="https://www.nbcnews.com/news/world/russia-heating-collapse-putin-war-burst-pipes-rcna137226" />
+    <id>tag:nbcnews.com,2024-02-08:/news/world/russia-heating-collapse-putin-war-burst-pipes-rcna137226</id>
+    <published>2024-02-08T06:20:00Z</published>
+    <updated>2024-02-08T06:20:00Z</updated>
+    <summary>Across Russia, creaking infrastructure and a wave of accidents have plunged households into the cold in the depth of winter, fueling rare showings of public frustration.</summary>
+    <author>
+      <name>Yuliya Talmazan</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Marine Corps confirms the worst: All 5 troops killed in helicopter crash in California mountains</title>
+    <link href="https://apnews.com/article/marine-helicopter-found-san-diego-mountains-a66c3e8565204c43a189301015ef41a6" />
+    <id>tag:apnews.com,2024-02-08:/article/marine-helicopter-found-san-diego-mountains-a66c3e8565204c43a189301015ef41a6</id>
+    <published>2024-02-08T09:24:00Z</published>
+    <updated>2024-02-08T09:24:00Z</updated>
+    <summary>Five U.S. Marines aboard a helicopter that went down during stormy weather in the mountains outside of San Diego are confirmed dead, the military said Thursday.</summary>
+    <author>
+      <name>Julie Watson</name>
+    </author>
+  </entry>
 </feed>
 
 
