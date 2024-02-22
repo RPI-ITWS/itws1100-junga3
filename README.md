@@ -1,3 +1,1 @@
 # itws1100-junga3
-Lab 3
-This lab was pretty fun to actually do. I missed class due to being ill but was able to teach myself the content that I missed and was able to complete it. For my website I wanted to go for a dark mode theme and might implement a switch to toggle between dark and light mode in the future. I used w3schools to learn how to make elements appear on hover, create a header/footer and also other html basics.
