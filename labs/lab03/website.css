@@ -6,7 +6,9 @@ h1 {
     font-family: "Helvetica";
     color: white;
 }
-
+h2 {
+    color: white;
+}
 .joke {
     display: inline-flex;
 }
