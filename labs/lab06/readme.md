@@ -1,4 +1,5 @@
 # Lab 6 - JavaScript and jQuery
+
 Main page: https://junga3rpi.eastus.cloudapp.azure.com/iit/
 Projects page: https://junga3rpi.eastus.cloudapp.azure.com/iit/labs/lab03/projects.html
 Lab 6 page: https://junga3rpi.eastus.cloudapp.azure.com/iit/labs/lab06/lab6.html
