@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>RSS Feed Reader</title>
+    <meta charset="UTF-8"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+    <ol id="rss-feed"></ol>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                type: 'GET',
+                url: '../labs/lab04/rss.xml',
+                dataType: 'xml',
+                success: function (response) {
+                    $(response).find('item').each(function () {
+                        var title = $(this).find('title').text();
+                        var link = $(this).find('link').text();
+                        $('#rss-feed').append('<li><a href="' + link + '">' + title + '</a></li>');
+                    });
+                },
+            });
+        });
+    </script>
+</body>
+
+</html>
