@@ -53,7 +53,8 @@
          "title": "JavaScript Projects",
          "file_path": "../lab4/rss.xml",
          "image": "resources/lab06.jpg",
-         "desc": "JavaScript projects page"
+         "desc": "JavaScript projects page",
+         "pubDate": "4/1/24"
       }
 
    ]
