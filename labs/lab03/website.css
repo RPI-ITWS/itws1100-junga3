@@ -51,3 +51,8 @@ footer {
     color:white;
     margin-top: auto;
 }
+#bodyBlock {
+    width: 700px;
+    margin: auto;
+    color:white;
+  }
