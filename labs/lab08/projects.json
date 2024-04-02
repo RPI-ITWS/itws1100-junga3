@@ -1,0 +1,60 @@
+{
+   "menuItem": [
+      {
+         "lab_number": "1",
+         "title": "Intial creation",
+         "file_path": "../lab01/junga3-lab1-HelloWorld.pdf",
+         "image": "resources/lab01.jpg",
+         "desc": "Creation of the index.html and setting up of iit/website",
+         "pubDate": "1/18/24"
+      },
+      {
+         "lab_number": "2",
+         "title": "Resume",
+         "file_path": "../lab02/resume.html",
+         "image": "resources/lab02.jpg",
+         "desc": "Creation of resume in html and CSS styling",
+         "pubDate": "1/29/24"
+      },
+      {
+         "lab_number": "3",
+         "title": "Projects page",
+         "file_path": "../lab03/projects.html",
+         "image": "resources/lab03.jpg",
+         "desc": "Building of index and projects page in html",
+         "pubDate": "2/5/24"
+      },
+      {
+         "lab_number": "4",
+         "title": "RSS and Atom feed",
+         "file_path": "../lab04/rss.xml",
+         "image": "resources/lab04.jpg",
+         "desc": "Intro to xml of RSS and Atom",
+         "pubDate": "2/15/24"
+      },
+      {
+         "lab_number": "5",
+         "title": "JavaScript",
+         "file_path": "../lab05/lab5.html",
+         "image": "resources/lab05.jpg",
+         "desc": "Intro to JavaScript through the creation of form validaton page",
+         "pubDate": "2/22/24"
+      },
+      {
+         "lab_number": "6",
+         "title": "jQuery",
+         "file_path": "../lab06/lab6.html",
+         "image": "resources/lab06.jpg",
+         "desc": "jQuery example page",
+         "pubDate": "3/15/24"
+      },
+      {
+         "lab_number": "8",
+         "title": "JavaScript Projects",
+         "file_path": "../lab4/rss.xml",
+         "image": "resources/lab06.jpg",
+         "desc": "JavaScript projects page"
+      }
+
+   ]
+}
