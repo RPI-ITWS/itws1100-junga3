@@ -55,6 +55,14 @@
          "image": "resources/lab06.jpg",
          "desc": "JavaScript projects page",
          "pubDate": "4/1/24"
+      },
+      {
+         "lab_number": "9",
+         "title": "Lab 4 Revisted AJAX",
+         "file_path": "../lab09/lab9.html",
+         "image": "resources/lab06.jpg",
+         "desc": "Using AJAX to display ATOM and RSS Feeds.",
+         "pubDate": "4/4/24"
       }
 
    ]
